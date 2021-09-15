@@ -15,5 +15,5 @@ I’m a fresh graduate student pursuing a Bachelors’s in Information System st
 <br><br>
 <hr>
 <p align="center">
-  <img src="https://github.com/adamkurniap/adamkurniap/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
